@@ -1,0 +1,5 @@
+python-chess
+click
+pyyaml
+requests
+python-dotenv
