@@ -1,0 +1,12 @@
+difficulty_level: hard
+
+# Game Settings
+board_size: 8
+allowed_time: 600 # seconds
+
+# Bot Behavior
+random_move_chance: 0.1 # 10% of the time
+
+# Logging Configuration
+log_file: bot.log
+log_level: INFO
